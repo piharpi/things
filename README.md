@@ -1,4 +1,4 @@
-# favorite-Things
+# Things
 
 My Favorite Songs
 
@@ -8,7 +8,15 @@ My Favorite Songs
 - Firehouse - [Here for You](https://www.youtube.com/watch?v=QQwgUzD3KKI)
 - Mr. Big - [To Be With You](https://www.youtube.com/watch?v=L6-uJLteKek)
 - Oasis - [Wonderwall](https://www.youtube.com/watch?v=6hzrDeceEKc)
+- Creed - [One Last Breath](https://www.youtube.com/watch?v=qnkuBUAwfe0)
+- 3 Doors Down - [Here Without You](https://www.youtube.com/watch?v=kPBzTxZQG5Q)
 
-My Favorite Monospace Font
+My Favorite Fonts
 
-- [Hack](https://sourcefoundry.org/hack/)
+- Monospace [Hack](https://sourcefoundry.org/hack/)
+- Sans Serif [Roboto](https://fonts.google.com/specimen/Roboto)
+
+My Favorite Text Editor
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- Maybie someday I will be Vimeers
