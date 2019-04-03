@@ -10,6 +10,7 @@ My Favorite Songs
 - Oasis - [Wonderwall](https://www.youtube.com/watch?v=6hzrDeceEKc)
 - Creed - [One Last Breath](https://www.youtube.com/watch?v=qnkuBUAwfe0)
 - 3 Doors Down - [Here Without You](https://www.youtube.com/watch?v=kPBzTxZQG5Q)
+- Scorpions - [Wind Of Change](https://www.youtube.com/watch?v=n4RjJKxsamQ)
 
 My Favorite Fonts
 
