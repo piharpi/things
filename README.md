@@ -1,6 +1,6 @@
 # Things
 
-My Favorite Songs
+My Favorite Music
 
 - Queen - [Love of my life](https://www.youtube.com/watch?v=T73WhWTawCE)
 - Oasis - [Don't Look Back In Anger](https://www.youtube.com/watch?v=r8OipmKFDeM)
@@ -12,6 +12,7 @@ My Favorite Songs
 - 3 Doors Down - [Here Without You](https://www.youtube.com/watch?v=kPBzTxZQG5Q)
 - Scorpions - [Wind Of Change](https://www.youtube.com/watch?v=n4RjJKxsamQ)
 - Maroon 5 - [This Love](https://www.youtube.com/watch?v=XPpTgCho5ZA)
+- Ian Post - [Just Jump](https://artlist.io/song/11609/just-jump)
 
 My Favorite Fonts
 
