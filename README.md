@@ -13,6 +13,7 @@ My Favorite Music
 - Scorpions - [Wind Of Change](https://www.youtube.com/watch?v=n4RjJKxsamQ)
 - Maroon 5 - [This Love](https://www.youtube.com/watch?v=XPpTgCho5ZA)
 - Ian Post - [Just Jump](https://artlist.io/song/11609/just-jump)
+- Ebiet G Ade - [Elegi Esok Pagi](https://www.youtube.com/watch?v=RNVrgyN3nvE)  
 
 My Favorite Fonts
 
