@@ -14,7 +14,7 @@ My Favorite Music
 - Maroon 5 - [This Love](https://www.youtube.com/watch?v=XPpTgCho5ZA)
 - Ian Post - [Just Jump](https://artlist.io/song/11609/just-jump)
 - Ebiet G Ade - [Elegi Esok Pagi](https://www.youtube.com/watch?v=RNVrgyN3nvE)  
-
+- Guns N' Roses - [November Rain](https://www.youtube.com/watch?v=8SbUC-UaAxE)
 My Favorite Fonts
 
 - Monospace [Hack](https://sourcefoundry.org/hack/)
