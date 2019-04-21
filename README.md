@@ -15,6 +15,8 @@ My Favorite Music
 - Ian Post - [Just Jump](https://artlist.io/song/11609/just-jump)
 - Ebiet G Ade - [Elegi Esok Pagi](https://www.youtube.com/watch?v=RNVrgyN3nvE)  
 - Guns N' Roses - [November Rain](https://www.youtube.com/watch?v=8SbUC-UaAxE)
+- Metallica - [Nothing Else Matters](https://www.youtube.com/watch?v=tAGnKpE4NCI) 
+
 My Favorite Fonts
 
 - Monospace [Hack](https://sourcefoundry.org/hack/)
