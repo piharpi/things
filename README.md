@@ -17,6 +17,8 @@ My Favorite Music
 - Guns N' Roses - [November Rain](https://www.youtube.com/watch?v=8SbUC-UaAxE)
 - Metallica - [Nothing Else Matters](https://www.youtube.com/watch?v=tAGnKpE4NCI) 
 - Dream Theater - [The Spirit Carries On](https://www.youtube.com/watch?v=wTDcAkSjuzc)
+- System Of A Down [Lonely Day](https://www.youtube.com/watch?v=JC4QDEtVkSc)
+- No Doubt - [Don't Speak](https://www.youtube.com/watch?v=M82ChD8qH-c)
 
 My Favorite Fonts
 
