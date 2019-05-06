@@ -1,6 +1,6 @@
 # Things
 
-My Favorite Music
+Music
 
 - Queen - [Love of my life](https://www.youtube.com/watch?v=T73WhWTawCE)
 - Oasis - [Don't Look Back In Anger](https://www.youtube.com/watch?v=r8OipmKFDeM)
@@ -20,12 +20,12 @@ My Favorite Music
 - System Of A Down [Lonely Day](https://www.youtube.com/watch?v=JC4QDEtVkSc)
 - No Doubt - [Don't Speak](https://www.youtube.com/watch?v=M82ChD8qH-c)
 
-My Favorite Fonts
+Fonts
 
 - Monospace [Hack](https://sourcefoundry.org/hack/)
 - Sans Serif [Roboto](https://fonts.google.com/specimen/Roboto)
 
-My Favorite Text Editor
+Editor
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - Maybie someday I will be Vimeers
