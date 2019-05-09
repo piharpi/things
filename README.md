@@ -19,6 +19,7 @@ Music
 - Dream Theater - [The Spirit Carries On](https://www.youtube.com/watch?v=wTDcAkSjuzc)
 - System Of A Down [Lonely Day](https://www.youtube.com/watch?v=JC4QDEtVkSc)
 - No Doubt - [Don't Speak](https://www.youtube.com/watch?v=M82ChD8qH-c)
+- Chicago - [Hard To Say I'm Sorry](https://www.youtube.com/watch?v=wEwNcnklcsk)
 
 Fonts
 
