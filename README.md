@@ -29,4 +29,5 @@ Fonts
 Editor
 
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [RubyMine](https://www.jetbrains.com/ruby/)
 - Maybie someday I will be Vimeers
