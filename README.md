@@ -26,7 +26,7 @@ Music
 - Ten2Five - [I Will Fly](https://www.youtube.com/watch?v=8g_ERvGhyw8)
 - Ten2Five - [You](https://www.youtube.com/watch?v=2nw9bDdyAYM)
 
-_Hemm sorry, i don't have so much time to write all my favorites music__
+> _Hemm sorry, i don't have so much time to write all my favorites music__
 
 Fonts
 
@@ -39,4 +39,5 @@ Text Editor
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [RubyMine](https://www.jetbrains.com/ruby/)
-- Maybie someday I will be Vimeers
+
+> Maybe someday I will be Vimeers
